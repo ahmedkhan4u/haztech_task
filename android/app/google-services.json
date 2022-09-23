@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "772626219393",
+    "project_id": "haztechsofttask",
+    "storage_bucket": "haztechsofttask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772626219393:android:93c2e281ae8db3847c2880",
+        "android_client_info": {
+          "package_name": "com.example.haztech_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772626219393-qnl9sac9lme5nl438e16ljo0845st6gv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haztech_task",
+            "certificate_hash": "94206c13ec060b81713bece7636b69e8899cd3d3"
+          }
+        },
+        {
+          "client_id": "772626219393-4oh0svbhqp62fqongniatel3ijarg0q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6FZDs1JCfNnBMEXEYeNYGuI4Dma7FILw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772626219393-4oh0svbhqp62fqongniatel3ijarg0q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
